@@ -26,7 +26,7 @@ import PatientManagement.Persona.PersonDirectory;
 
 /**
  *
- * @author kal bugrara
+ * @author kal bugrara asdh
  */
 
 public class PatientCareMain {
